@@ -35,7 +35,7 @@
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=blue" alt="Profile Visit"/>
+<img src="https://komarev.com/ghpvc/?username=bishnupk888&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -65,16 +65,17 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=bishnupk888&show_icons=true&theme=dark" />
 
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=bishnupk888&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 # 🚀 Projects
 
-- MERN Sports Booking Application  
+- Sportszone MERN Sports Booking Application 
+- Timer E-commerce store 
 - User & Admin Management System  
 - Weather App using React  
 
