@@ -1,16 +1,83 @@
-## Hi there 👋
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<!--
-**bishnupk888/bishnupk888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Bishnu PK</strong>
+</h1>
 
-Here are some ideas to get you started:
+<h3>MERN Stack Developer | JavaScript • Node.js • React</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    I'm a MERN Stack developer who enjoys building scalable backend systems and responsive user interfaces.  
+    I love turning ideas into functional and user-friendly web applications.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💼_MERN_Stack_Developer-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
+  </p>
+
+<h3>🌐 Socials</h3>
+
+<p align="left">
+
+<a href="https://github.com/bishnupk888">
+<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/bishnupk">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
+
+<br clear="all" />
+
+---
+
+# 🛠️ Skills
+
+<p align="center">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### 📚 Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark" />
+
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=dark&hide_border=true" />
+</p>
+
+---
+
+# 🚀 Projects
+
+- MERN Sports Booking Application  
+- User & Admin Management System  
+- Weather App using React  
+
+---
+
+⭐ Thanks for visiting my profile!
