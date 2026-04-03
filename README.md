@@ -53,7 +53,7 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
