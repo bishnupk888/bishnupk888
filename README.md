@@ -77,7 +77,7 @@
 - Sportszone MERN Sports Booking Application 
 - Timer E-commerce store 
 - User & Admin Management System  
-- Weather App using React  
+- Weather App using ReactJS
 
 ---
 
