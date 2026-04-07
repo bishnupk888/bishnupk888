@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
   </p>
 
-
 <h3>🌐 Socials</h3>
 
 <p align="left">
